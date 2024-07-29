@@ -1,3 +1,5 @@
 # Flying-etiquette-JOURN124
 
+The question below, "generally speaking, is it rude to say more than a few words to the stranger sitting next to you on a plane," refers to common etiquette when it comes to flying. I picked this question because I was curious to see the distribution of what people think about for something I see as a minuscule action between humans, and was surprised to see over 150 people out of group questioned at least believed it to be somewhat rude. It makes me wonder what are someunderlying factors into believing such, and their reasoning as to why. However, there is some faith as over 600 people said it is not rude at all to talk the stranger sitting next to you on a plane. It is still important to point out that only about 1,000 people in total were asked the question, and almost 200 people left the question blank, meaning this may not be an accurate representation of the overall population.
+
 ![JaPUJ-is-it-rude-to-say-more-than-a-few-words-to-the-stranger-sitting-next-to-you-on-a-plane-](https://github.com/user-attachments/assets/2903ed94-f6fa-4fb3-95a3-3ab63d867773)
